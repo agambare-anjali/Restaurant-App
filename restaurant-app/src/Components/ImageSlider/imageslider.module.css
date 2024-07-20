@@ -1,0 +1,25 @@
+.sliderContainer {
+  height: 300px;
+}
+.image {
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+}
+.buttonContaier {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+}
+.button {
+  height: 34px;
+  width: 30px;
+  margin: 10px;
+  background-color: gray;
+  border: 1px solid darkgray;
+  color: rgb(25, 11, 11);
+  opacity: 1;
+  /* background-color: rgba(0, 0, 0, 0.5); /* Black with 50% opacity */
+  /* border: none;  */
+}
